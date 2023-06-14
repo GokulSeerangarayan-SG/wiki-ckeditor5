@@ -12,7 +12,9 @@ The document editor build for CKEditor 5, featuring the decoupled UI editor impl
 
 ![CKEditor 5 decoupled document editor build screenshot](https://c.cksource.com/a/1/img/npm/ckeditor5-build-decoupled-document.png)
 
-## Doc
+
+## Doc....
+
 
 See:
 
